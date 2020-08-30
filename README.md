@@ -1,7 +1,7 @@
 ## Real Time Chat Web App
 
 <p>
-  <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around2.gif">
+  <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/chat.gif">
 </p>
 
 ## Introduction
