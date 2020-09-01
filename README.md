@@ -6,7 +6,7 @@
 
 ## Overview
 
-Real Time Chat Web App is a multi channel chat web application with React, Hooks and Material UI. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The purpose of this project was to learn how to use React to develop a morden framework frontend. In addition, I also used pagination query to reduce the number of Firebase access and cost, and used Firebase as backend for authentication and real time database for chat.
+Real-Time Chat Web App is a multi-users real-time group chat web application with React, Hooks and Material UI. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In addition, I also used pagination query to reduce the number of Firebase access and cost, and used Firebase as backend for authentication and real time database for chat.
 
 ## Requirement
 
