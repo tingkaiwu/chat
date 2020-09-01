@@ -1,4 +1,4 @@
-## Real Time Chat Web App
+## Real-Time Chat Web App
 
 <p>
   <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/chat.gif">
